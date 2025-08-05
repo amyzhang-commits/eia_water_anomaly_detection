@@ -1,0 +1,6 @@
+water_ratio,fuel_consumption_from_all_fuel_types_mmbtu,water_withdrawal_volume_million_gallons,water_consumption_volume_million_gallons,cooling_unit_hours_in_service,avg_distance_water_intake,power_gen_data_missing,cooling_equipment_missing,cooling_system_metadata_missing,cooling_operation_missing,water_metadata_missing,water_metrics_missing
+0.53,698949.11,3100.5,70.39,583.79,15.12,0.66,7.37,32.69,46.74,23.1,73.19
+0.38,334215.7,2826.22,77.62,438.84,3.62,0.17,1.58,5.09,11.75,10.4,20.9
+0.24,328202.58,25467.99,636.18,704.0,16.22,116.4,27.0,44.1,33.0,35.3,124.9
+-164.36,485573.21,1445.5,313.02,549.14,16.42,365.0,431.0,2691.0,882.0,1483.0,1764.0
+0.5,468528.14,2127.66,179.34,549.73,16.9,436.21,440.87,2704.35,925.37,1538.74,1730.52
